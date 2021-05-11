@@ -31,4 +31,5 @@ This fonction displays the numbers of persons in each group and the amount of hi
 *When you run the program, write 'cpt' and press enter.*
 
 # important
-To exit the program, type 'q' when you are in the main menu.
+- If **group.txt** is empty, the program start at the menu "add".
+- To exit the program, type 'q' when you are in the main menu.
