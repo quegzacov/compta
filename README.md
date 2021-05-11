@@ -26,7 +26,7 @@ After that, the fonction takes 2 arguments:
 - the name of the person who bought something
 - the value of the purchase
 
-# compte
+# account
 This fonction displays the numbers of persons in each group and the amount of his 'debt'.
 *When you run the program, write 'cpt' and press enter.*
 
