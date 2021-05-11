@@ -163,6 +163,11 @@ class Menu:
 
         
 bank = Bank()
-bank.set_up()
 menu = Menu()
-menu.home()
+gens = bank.gestion_file.open_file('group')
+if gens != ['']:
+    bank.set_up()
+    menu.home()
+
+else:
+    menu.menu_add()
